@@ -1,0 +1,29 @@
+{
+  "cluster_expansions" : {
+    "formation_energy" : {
+      "bset" : "default",
+      "calctype" : "default",
+      "eci" : "default",
+      "name" : "formation_energy",
+      "property" : "formation_energy",
+      "ref" : "default"
+    }
+  },
+  "crystallography_tol" : 1.000000000000000082e-05,
+  "curr_properties" : [ "relaxed_energy" ],
+  "default_clex" : "formation_energy",
+  "lin_alg_tol" : 1.000000000000000036e-10,
+  "name" : "SiGe",
+  "nlist_sublat_indices" : [ 0, 1 ],
+  "nlist_weight_matrix" : [
+    [ 2, 1, 1 ],
+    [ 1, 2, 1 ],
+    [ 1, 1, 2 ]
+  ],
+  "query_alias" : {
+    "sub_shell" : "sub(formation_energy,add(mult(0.086762152277045,comp(a)),mult(-0.040618560881924,comp(a),comp(a)),mult(-0.046152464169537,comp(a),comp(a),comp(a))))",
+    "sub_clex_shell" : "sub(clex(formation_energy),add(mult(0.086762152277045,comp(a)),mult(-0.040618560881924,comp(a),comp(a)),mult(-0.046152464169537,comp(a),comp(a),comp(a))))",
+    "weight" : "add(mult(0.98, exp(mult(-80,sub_shell))),0.02)"
+  },
+  "view_command" : "casm.view \"vglrun VESTA\""
+}

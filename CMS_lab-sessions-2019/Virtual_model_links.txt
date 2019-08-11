@@ -1,0 +1,36 @@
+
+T1
+
+6.All toguether
+https://aitor-viz.glitch.me
+
+
+1. Particle reinforced model
+https://aitor-3dsphere.glitch.me/
+
+2. Polycrystal_grains_big
+https://aitor-polyshell.glitch.me/
+
+3. Medium_size_Polycrystal_deformed
+https://aitor-microstructure2.glitch.me/
+
+4. Medium_size_Polycrystal_grain_boundaries alone
+https://aitor-microstructure.glitch.me/
+
+5. Polycrystal_few_grains_deformed
+https://aitor-grains2.glitch.me/
+
+R1
+
+1. https://aitor-nt10.glitch.me/ 
+
+2. https://aitor-ctvid.glitch.me/  
+
+F2
+
+DDD simulation
+
+1. https://aitor-dddvideo.glitch.me/  -- video  
+
+2. https://aitor-dddcompare.glitch.me --> 1st vs. last  
+
